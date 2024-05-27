@@ -2,7 +2,7 @@
 <h3 align="center">Pre-final year student at Velammal Engineering College, driven by a passion for learning and creativity, constantly seeking new knowledge and growth opportunities.</h3>
 
 
-- 🌱 I’m currently learning **Web Development , App development and DSA **
+- 🌱 I’m currently learning **Web Development , App development and DSA**
 
 - 👨‍💻 All of my projects are available at [https://aathieswar.vercel.app/](https://aathieswar.vercel.app/)
 
