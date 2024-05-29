@@ -1,4 +1,4 @@
-<h1 align="center">Hi Aathi Eswar S</h1>
+<h1 align="center">Aathi Eswar S</h1>
 <h3 align="center">Pre-final year student at Velammal Engineering College, driven by a passion for learning and creativity, constantly seeking new knowledge and growth opportunities.</h3>
 
 
