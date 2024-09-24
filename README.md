@@ -1,10 +1,10 @@
 # 💫 About Me
 Hi there, **I'm Aathi Eswar S**👋<br>
 - 🧠 Driven by a passion for learning and creativity, constantly seeking new knowledge and growth opportunities.
-- 💪🏼 I am a software developer with a keen interest in web development and app development.
+- 💪🏼 I am a software developer and a product designer with a keen interest in web/app development and UI UX design.
 - 🎯 I am also currently learning data structures to strengthen my foundational knowledge and improve my problem-solving skills.<br>
 - 🌞 Check out my portfolio website: https://aathieswar.vercel.app/<br>
-- 🔥 How to reach me aathi28082003@gmail.com
+- 🔥 To reach me aathi28082003@gmail.com
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
